@@ -1,1 +1,1 @@
-# lenaBCI
+# Brain-Computer Interface
